@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Connor 👋
 
-<!--
-**CNeiheisel/CNeiheisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Michigan State University in the Honors College, currently interning as an Application Development Intern at Delta Dental of Michigan, building REST APIs and address-processing services used by 1M+ members daily.
 
-Here are some ideas to get you started:
+I like building full-stack projects that solve real problems I run into — from replay analytics tools to Discord bots that automate things I used to do manually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building: [Rocket League Replay Tracker & AI Coach](https://github.com/CNeiheisel/Rocket-League-Replay-Tracker)
+- 🤖 Also built: [Steam Wishlist Price Alert Bot](https://github.com/CNeiheisel/steam-wishlist-price-bot)
+- 💼 Interning at Delta Dental of Michigan — Java, Spring Boot, REST APIs
+- 🎓 Professorial Assistant at MSU's Institute for Cyber-Enabled Research (ICER HPCC)
+- 🎮 Captain of the MSU Varsity Rocket League team
+
+**Tech I work with:** Java · Python · TypeScript · JavaScript · C++ · Angular · Node.js/Express · Spring Boot · PostgreSQL · AWS
+
+📫 Reach me at neiheis1@msu.edu or [LinkedIn](https://linkedin.com/in/connor-neiheisel)
