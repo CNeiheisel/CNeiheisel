@@ -1,4 +1,4 @@
-### Hi, I'm Connor 👋
+### Hi, I'm Connor 
 
 CS student at Michigan State University in the Honors College, currently interning as an Application Development Intern at Delta Dental of Michigan, building REST APIs and address-processing services used by 1M+ members daily.
 
